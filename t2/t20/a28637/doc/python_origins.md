@@ -12,14 +12,8 @@ Let's dive into [Guido van Rossum](https://fr.wikipedia.org/wiki/Guido_van_Rossu
 
 ## Role played by Guido van Rossum in Python
 
-Guido van Rossum was only the creator of Python and [Benevolent Dictator for Life (BDFL)](https://fr.wikipedia.org/wiki/Benevolent_Dictator_for_Life).
+Guido van Rossum was only the creator of Python and [Benevolent Dictator for Life (BDFL)](https://fr.wikipedia.org/wiki/Benevolent_Dictator_for_Life). [His mother stated that he was not the messiah](https://www.youtube.com/watch?v=DBbuUWw30N8) and [he confirmed it](https://www.youtube.com/watch?v=4HB7zqP9QNo).
 
-[His mother said he was not the messiah](https://www.youtube.com/watch?v=DBbuUWw30N8)
+## Python's future
 
-[He said he was not the messiah](https://www.youtube.com/watch?v=4HB7zqP9QNo)
-
-# Python's future
-
-[Python is not dead.](https://www.youtube.com/watch?v=TaFDzTzKAT0)
-
-[Python has a future ahead of it.](https://www.youtube.com/watch?v=jHPOzQzk9Qo&list=RDjHPOzQzk9Qo&start_radio=1)
+[Python is not dead](https://www.youtube.com/watch?v=TaFDzTzKAT0), [it has a future ahead of it.](https://www.youtube.com/watch?v=jHPOzQzk9Qo&list=RDjHPOzQzk9Qo&start_radio=1).
