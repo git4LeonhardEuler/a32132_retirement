@@ -16,4 +16,4 @@ Je te souhaite une très belle retraite, pleine de découvertes, de plaisirs et 
 Bien amicalement,
 <br>
 
-Pierre Moussou
+_Pierre Moussou_
